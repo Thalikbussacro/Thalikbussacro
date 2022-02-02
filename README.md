@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Thalikbussacro
-OLA VOCE! Estou estudando no momento as formacoes front-end, java, php e sql server na alura
+Estou estudando no momento as formacoes front-end, java, php e sql server na alura
 Cursando analise e dev. de sistemas no segundo ano
 programador delphi junior à um ano
 
